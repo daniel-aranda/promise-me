@@ -106,3 +106,13 @@ Promised way:
   console.log(reply.arguments[0]);
 
 ```
+
+Running tests:
+```
+  npm test
+```
+
+Output from tests:
+
+
+<img width="450" alt="image" src="https://user-images.githubusercontent.com/1669319/177839549-8ba77e3b-438c-4727-a9d1-d184bf348860.png">
