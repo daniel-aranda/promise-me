@@ -1,0 +1,31 @@
+{
+  "name": "promise-me",
+  "version": "1.0.0",
+  "description": "Utility to convert callback functions into modern promises",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "daemon": "^1.1.0",
+    "init": "^0.1.2",
+    "jasmine": "^4.2.1"
+  },
+  "scripts": {
+    "test": "node tests/jasmine/jasmine.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daniel-aranda/promise-me.git"
+  },
+  "keywords": [
+    "callbacks",
+    "promises"
+  ],
+  "author": "Daniel Aranda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daniel-aranda/promise-me/issues"
+  },
+  "homepage": "https://github.com/daniel-aranda/promise-me#readme"
+}

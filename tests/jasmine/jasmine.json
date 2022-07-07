@@ -1,0 +1,12 @@
+{
+    "spec_dir": "tests/jasmine/core/",
+    "spec_files": [
+      "integration/**/*[sS]pec.js",
+      "unit/**/*[sS]pec.js"
+    ],
+    "helpers": [
+      "helpers/**/*.js"
+    ],
+    "stopSpecOnExpectationFailure": false,
+    "random": false
+  }
