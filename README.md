@@ -107,6 +107,12 @@ Promised way:
 
 ```
 
+Installation:
+```
+npm install @promise-me-async
+```
+
+
 Running tests:
 ```
   npm test
