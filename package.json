@@ -1,5 +1,5 @@
 {
-  "name": "promise-me",
+  "name": "promise-me-async",
   "version": "1.0.0",
   "description": "Utility to convert callback functions into modern promises",
   "main": "index.js",
