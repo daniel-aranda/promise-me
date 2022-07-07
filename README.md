@@ -109,7 +109,7 @@ Promised way:
 
 Installation:
 ```
-npm install @promise-me-async
+npm install promise-me-async
 ```
 
 
