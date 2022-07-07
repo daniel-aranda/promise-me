@@ -77,7 +77,7 @@ Comparing code waiting 3000 miliseconds:
 
 Usage on a custom callback function()
 ```js
-  function myCallback(callback, name){
+  function myCallback(name, callback){
     callback(`The best magician: ` + name);
   }
 ```
