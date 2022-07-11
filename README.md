@@ -1,5 +1,11 @@
 # promise-me
 
+### Depreciated!
+
+**Update:** I will depreciate this lib as there is a native one in node. https://nodejs.org/dist/latest-v8.x/docs/api/util.html#util_util_promisify_original
+
+
+
 Things in JavaScript have evolutionated a lot in the last years. The backwards compability from JavaScript is probably the best around all the languages, however something good typically came with something not that good.
 
 One of the problems of old JavaScript are callbacks, and specially callback hells. Modern JavaScript looks like this:
